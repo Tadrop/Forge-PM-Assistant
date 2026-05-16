@@ -1,0 +1,26 @@
+{
+  "pms": [
+    {
+      "id": "pm-alex",
+      "name": "Alex Chen",
+      "slack_user_id": "U01ALEXEXAMPLE",
+      "email": "alex@forgecreative.example",
+      "tone_namespace": "tone-pm-alex",
+      "projects": [
+        "REPLACE_WITH_CLICKUP_SPACE_ID_1",
+        "REPLACE_WITH_CLICKUP_SPACE_ID_2"
+      ]
+    },
+    {
+      "id": "pm-jordan",
+      "name": "Jordan Park",
+      "slack_user_id": "U02JORDANEXAMPLE",
+      "email": "jordan@forgecreative.example",
+      "tone_namespace": "tone-pm-jordan",
+      "projects": [
+        "REPLACE_WITH_CLICKUP_SPACE_ID_3"
+      ]
+    }
+  ],
+  "default_pm_id": "pm-alex"
+}

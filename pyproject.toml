@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forge-pm-assistant"
+version = "0.1.0"
+description = "AI project manager assistant for Forge Creative Agency"
+requires-python = ">=3.10"
+authors = [{ name = "Forge Creative Agency" }]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra -q"
+markers = [
+  "integration: tests that hit real APIs (deselect with '-m \"not integration\"')",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "S-stuck-1",
+    "name": "Wire up CMS migration",
+    "status": {"status": "in progress", "color": "#FFB454"},
+    "date_created": "1714000000000",
+    "date_updated": "1714400000000",
+    "date_closed": null,
+    "due_date": null,
+    "assignees": [{"id": 101, "username": "alex"}],
+    "dependencies": [
+      {"task_id": "S-stuck-1", "depends_on": "S-blocker-source"}
+    ],
+    "list": {"id": "L-1", "name": "Sprint 4"},
+    "url": "https://app.clickup.com/t/S-stuck-1"
+  },
+  {
+    "id": "S-untouched-1",
+    "name": "Set up Figma file",
+    "status": {"status": "to do"},
+    "date_created": "1714000000000",
+    "date_updated": "1714000000000",
+    "date_closed": null,
+    "due_date": null,
+    "assignees": [],
+    "dependencies": [],
+    "list": {"id": "L-1"}
+  },
+  {
+    "id": "S-overdue-1",
+    "name": "Submit final designs",
+    "status": {"status": "in progress"},
+    "date_created": "1714000000000",
+    "date_updated": "1717000000000",
+    "date_closed": null,
+    "due_date": "1715000000000",
+    "assignees": [{"id": 102, "username": "jordan"}],
+    "dependencies": []
+  },
+  {
+    "id": "S-missed-1",
+    "name": "Deliver brand book",
+    "status": {"status": "complete"},
+    "date_created": "1714000000000",
+    "date_updated": "1716200000000",
+    "date_closed": "1716200000000",
+    "due_date": "1715000000000",
+    "assignees": [{"id": 103, "username": "sam"}],
+    "dependencies": []
+  }
+]

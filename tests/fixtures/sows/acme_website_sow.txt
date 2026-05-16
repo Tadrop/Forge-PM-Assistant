@@ -1,0 +1,33 @@
+Statement of Work — Acme Co. Website Redesign
+
+PROJECT OVERVIEW
+This SOW covers a full marketing-site redesign for Acme Co. Forge Creative
+Agency will deliver visual design, front-end build, and content migration
+from the existing WordPress instance.
+
+Deliverables
+- Discovery workshop and competitive audit
+- Visual identity refresh (logo lockups, color palette, type system)
+- High-fidelity Figma designs for 8 marketing pages
+- Webflow build of the 8 pages, including responsive breakpoints
+- Migration of existing blog posts into Webflow CMS
+- CMS training session for Acme marketing team
+- Two rounds of revisions per deliverable
+
+Out of Scope
+- Native mobile applications
+- E-commerce or checkout functionality
+- Backend API development
+- Multi-language localization
+- Custom illustration beyond the icon set defined in the visual identity
+
+Timeline
+Discovery and design phases run weeks 1-4. Build phase runs weeks 5-9.
+QA and launch in week 10.
+
+Acceptance Criteria
+All deliverables reviewed by Acme stakeholder Pat M. Designs approved
+in Figma; build approved on staging URL.
+
+Fees
+Total project fee: $48,000 split into three milestone payments.

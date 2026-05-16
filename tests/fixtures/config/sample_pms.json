@@ -1,0 +1,19 @@
+{
+  "pms": [
+    {
+      "id": "pm-alex",
+      "name": "Alex Chen",
+      "slack_user_id": "U01ALEX",
+      "tone_namespace": "tone-pm-alex",
+      "projects": ["P-acme", "P-globex"]
+    },
+    {
+      "id": "pm-jordan",
+      "name": "Jordan Park",
+      "slack_user_id": "U02JORDAN",
+      "tone_namespace": "tone-pm-jordan",
+      "projects": ["P-initech"]
+    }
+  ],
+  "default_pm_id": "pm-alex"
+}
